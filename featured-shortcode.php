@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Featured Posts Shortcode
-* Plugin URI: https://github.com/LioneAdri/
+* Plugin URI: https://github.com/LioneAdri/featured-shortcode
 * Description: List featured posts in cards
 * Version: 0.1
 * Text Domain: visionspring-featured-posts-shortcode
